@@ -1,13 +1,7 @@
 ## Welcome to snappercayt research blog
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-# **3rd May 2020 **
+# 3rd May 2020
 ## again skipped some days for some reason 
 
 1. found this cool paper which Luca DellAnna talks about, using humain brain cortex model to derive context 
@@ -17,4 +11,4 @@ for the data
 3. decided to work on some dapps because that is what one twitter follower suggest so started reading about that
 https://hackernoon.com/what-are-decentralized-applications-dapps-explained-with-examples-7ff8f2c4a460
 4. found this interesting software to scale images to 4k using DLNN https://github.com/AaronFeng753/Waifu2x-Extension-GUI
-5. answered some stack overflow question and that peeked my interest in pandas again
+5. answered some stack overflow question and that peeked my interest in pandas again 
