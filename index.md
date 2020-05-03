@@ -10,4 +10,4 @@ for the data
 3. decided to work on some dapps because that is what one twitter follower suggest so started reading about that
 https://hackernoon.com/what-are-decentralized-applications-dapps-explained-with-examples-7ff8f2c4a460
 4. found this interesting software to scale images to 4k using DLNN https://github.com/AaronFeng753/Waifu2x-Extension-GUI
-5. answered some stack overflow question and that peeked my interest in pandas again [check here] (https://stackoverflow.com/users/11679090/snappercayt)
+5. answered some stack overflow question and that peeked my interest in pandas again [!check here] (https://stackoverflow.com/users/11679090/snappercayt)
