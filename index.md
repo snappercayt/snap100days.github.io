@@ -15,3 +15,5 @@ from pattern maching and lot more for the data available, [clickhere](https://lu
 4. found this interesting software to scale images to 4k using DLNN [Waifu2x isa awesome](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 5. answered some stack overflow question and that peeked my interest in pandas again [check here](https://stackoverflow.com/users/11679090/snappercayt)
+
+6. other posts [check here](https://snappercayt.github.io/snap100days.github.io/posts/Demo.md)
