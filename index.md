@@ -1,7 +1,8 @@
-## Welcome to snappercayt research blog
+# Welcome to [snappercayt](https://twitter.com/snappercayt) research blog
 
 
-# 3rd May 2020
+## Day 1
+### May 3rd 2020
 
 1. found this cool paper which Luca DellAnna talks about, using humain brain cortex model to derive context 
 from pattern maching and lot more for the data available, [clickhere](https://luca-dellanna.com/wp-content/uploads/2019/01/Techniques-for-the-Emergence-of-Meaning-in-ML.pdf)
