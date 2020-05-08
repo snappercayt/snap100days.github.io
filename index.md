@@ -1,5 +1,5 @@
-# Welcome to my programming research blog
-
+# Welcome to snapp100days
+## this is where I will be posting blogs for the next 100 days 
 
 ## Day 1
 ### May 3rd 2020
