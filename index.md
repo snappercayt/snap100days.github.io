@@ -1,4 +1,4 @@
-# Welcome to [snappercayt](https://twitter.com/snappercayt) research blog
+# Welcome to my programming research blog
 
 
 ## Day 1
