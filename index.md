@@ -32,6 +32,9 @@ from pattern maching and lot more for the data available, [clickhere](https://lu
 1. i added my LoginManger before from app import routes, models and it worked. If you want to have some route to something then it has to be there before you create a LoginManager
 2. While copying code always look at the minutest bits  
 3. [this](https://i.imgur.com/XIFhwew.png) code gave me lot of headache, I had done a typo when I was writing this join code where I added join to the same coloumn i.e. 
+
+
+
 ```
 #both join to follower_id
 primaryjoin=(followers.c.follower_id == id),
