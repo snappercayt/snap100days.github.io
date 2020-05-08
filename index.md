@@ -1,5 +1,6 @@
 # Welcome to snapp100days
-## this is where I will be posting blogs for the next 100 days 
+[this](https://snappercayt.github.io/snapp100days/) is where I will be posting blogs for the next 100 days 
+
 
 ## Day 1
 ### May 3rd 2020
