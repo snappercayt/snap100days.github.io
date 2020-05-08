@@ -25,3 +25,9 @@ from pattern maching and lot more for the data available, [clickhere](https://lu
 8. bootstrap makes basic HTML [cool](https://designmodo.com/bootstrap-5/)
 9. deploying a python app to AWS seems [easy](https://www.freecodecamp.org/news/how-to-create-auto-updating-data-visualizations-in-python-with-matplotlib-and-aws/)
 10. pyqt5 can be used to browse websites [check this video](https://www.youtube.com/watch?v=atn0zb3TRY8)
+
+## Day 3
+### May 8th 2020
+
+1. i added my LoginManger before from app import routes, models and it worked. If you want to have some route to something then it has to be there before you create a LoginManager
+2. While copying code always look at the minutest bits  
