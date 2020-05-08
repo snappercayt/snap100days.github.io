@@ -46,3 +46,6 @@ secondaryjoin=(followers.c.follower_id == id)
 primaryjoin=(followers.c.follower_id == id),
 secondaryjoin=(followers.c.followed_id == id),
 ```
+
+ 4. this way this tutorial is coded and brought to life, [virtual graphics](
+https://youtu.be/PahbNFypubE) never stop amazing me
