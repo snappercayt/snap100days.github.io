@@ -79,3 +79,8 @@ https://youtu.be/PahbNFypubE) never stop amazing me
 ## Day 5
 ### May 11th 2020
 1. version control is very important for software development, GIT is the most widely used version control method. This Stanford document covers all the basics and working of [GIT](https://missing.csail.mit.edu/2020/version-control/)
+2. a purpose build software intelligence platform for [enterprise cloud](https://www.dynatrace.com/support/help/get-started/what-is-dynatrace/)
+3. automate simple tasks on android phone using this cool [app](https://llamalab.com/automate/)
+4. an open source software for OCR, [guide by NYU](https://guides.nyu.edu/tesseract)
+5. alternate firmware for configuration for ESP8266 based devices with options for webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. [check this github link](https://github.com/arendst/Tasmota)
+6. 
