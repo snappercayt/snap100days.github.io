@@ -72,6 +72,10 @@ secondaryjoin=(followers.c.follower_id == id)
 primaryjoin=(followers.c.follower_id == id),
 secondaryjoin=(followers.c.followed_id == id),
 ```
-
  4. the way this tutorial is coded and brought to life, [virtual graphics](
 https://youtu.be/PahbNFypubE) never stop amazing me
+
+
+## Day 5
+### May 11th 2020
+1. version control is very important for software development, GIT is the most widely used version control method. This Stanford document covers all the basics and working of [GIT](https://missing.csail.mit.edu/2020/version-control/)
