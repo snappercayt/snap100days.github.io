@@ -61,7 +61,6 @@ from pattern maching and lot more for the data available, [clickhere](https://lu
 3. [this](https://i.imgur.com/XIFhwew.png) code gave me lot of headache, I had done a typo when I was writing this join code where I added join to the same coloumn i.e. 
 
 
-
 ```
 #both join to follower_id
 primaryjoin=(followers.c.follower_id == id),
@@ -72,8 +71,9 @@ secondaryjoin=(followers.c.follower_id == id)
 primaryjoin=(followers.c.follower_id == id),
 secondaryjoin=(followers.c.followed_id == id),
 ```
- 4. the way this tutorial is coded and brought to life, [virtual graphics](
+4. the way this tutorial is coded and brought to life, [virtual graphics](
 https://youtu.be/PahbNFypubE) never stop amazing me
+
 
 
 ## Day 5
