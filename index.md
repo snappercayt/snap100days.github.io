@@ -88,10 +88,10 @@ https://youtu.be/PahbNFypubE) never stop amazing me
 
 ## Day 6
 ### May 22th 2020
-1. Here is a java based demo to create fractals using Ray-marching check (this link)[https://github.com/tatiana-s/mandelbulb-renderer]
+1. Learnt how to make a desktop shortcut of any application on Ubuntu 18.04 LTS using (this link)[https://linuxconfig.org/how-to-create-desktop-shortcut-launcher-on-ubuntu-18-04-bionic-beaver-linux] gtk is cool!
+2. Learnt installing anything on Ubuntu or linux is better to use a terminal based package manager like apt-get or snap to install developer tools eg. pycharm 
+3. It is possible to use a physical device to be used for developement of an app, to build and debug an android app by using adb wifi plugin to android studio
+4. Have to try flutter to build a simple app, also have to check how to remove that error on pyfingerprint module, have to try more examples of node-red, have to study (this)[https://www.hindawi.com/journals/wcmc/2018/7470234/] and understand how to use raspberrypi cluster for understanding cloud and deploying servers on it, have to find a way to send raspberrypi data over internet to a developement server I choose 🤔
+5. Here is a java based demo to create fractals using Ray-marching check (this link)[https://github.com/tatiana-s/mandelbulb-renderer]
 ### Update 
 I have been busy with understanding graphics created with best way to utilize best methods like (Ray Marching)[https://www.youtube.com/watch?v=Cp5WWtMoeKg], understood why computation is cheap but fetching bytes from DRAM is expensive in terms of energy for GPUs, having fun looking at (fractals)[https://www.cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/f/Fractal.htm], also trying to understand if we can make raspberry pi 4 cluster and deploy a web server on it over a kubernetes layer, in the day was busy setting up the LAMP stack using mysql-server , pycharm-community , android studio using IntelliJ IDEA
-2. Learnt how to make a desktop shortcut of any application on Ubuntu 18.04 LTS using (this link)[https://linuxconfig.org/how-to-create-desktop-shortcut-launcher-on-ubuntu-18-04-bionic-beaver-linux] gtk is cool!
-3. Learnt installing anything on Ubuntu or linux is better to use a terminal based package manager like apt-get or snap to install developer tools eg. pycharm 
-4. It is possible to use a physical device to be used for developement of an app, to build and debug an android app by using adb wifi plugin to android studio
-5. Have to try flutter to build a simple app, also have to check how to remove that error on pyfingerprint module, have to try more examples of node-red, have to study (this)[https://www.hindawi.com/journals/wcmc/2018/7470234/] and understand how to use raspberrypi cluster for understanding cloud and deploying servers on it, have to find a way to send raspberrypi data over internet to a developement server I choose 🤔
