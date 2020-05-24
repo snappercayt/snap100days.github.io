@@ -103,8 +103,8 @@ what if its possible to create a bot(a twitter bot preferably) to which you can 
 1. python bluetooth libraries on windows are tough to work with eg. bluetool 
 2. installing php using XAMPP on windows is the best way to setup LAMP stack on windows distribution, bitnami has modules for wordpress to help you better manage your website later
 3. adb or Android Debug Bridge can sometimes not work with windows for few reasons
-  * driver of the Android device connected to the USB of the computer might be outdated
-  * the adb service might need restart if the device is not detected
+   * driver of the Android device connected to the USB of the computer might be outdated
+   * the adb service might need restart if the device is not detected
 4. need to find a way to change the font of the title bar menu of python tkinter
 5. also need to find libararies to make bluetooth and wifi communication possible on python 
 
