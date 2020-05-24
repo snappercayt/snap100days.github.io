@@ -95,3 +95,18 @@ https://youtu.be/PahbNFypubE) never stop amazing me
 5. Here is a java based demo to create fractals using Ray-marching check [this link](https://github.com/tatiana-s/mandelbulb-renderer)
 ### Update 
 I have been busy with understanding graphics created with best way to utilize best methods like [Ray Marching](https://www.youtube.com/watch?v=Cp5WWtMoeKg), understood why computation is cheap but fetching bytes from DRAM is expensive in terms of energy for GPUs, having fun looking at [fractals](https://www.cs.mcgill.ca/~rwest/wikispeedia/wpcd/wp/f/Fractal.htm), also trying to understand if we can make raspberry pi 4 cluster and deploy a web server on it over a kubernetes layer, in the day was busy setting up the LAMP stack using mysql-server , pycharm-community , android studio using IntelliJ IDEA
+
+## Day 7
+### May 24th 2020
+what if its possible to create a bot(a twitter bot preferably) to which you can tag some image(like some qr code or link to something) which then converts that image into a fractal image and sends it you, this said fractal image will be made using the thing you tagged it with, and I hope this can be used your secure key of your choice whatever it maybe, just brain dump 
+
+1. python bluetooth libraries on windows are tough to work with eg. bluetool 
+2. installing php using XAMPP on windows is the best way to setup LAMP stack on windows distribution, bitnami has modules for wordpress to help you better manage your website later
+3. adb or Android Debug Bridge can sometimes not work with windows for few reasons
+  * driver of the Android device connected to the USB of the computer might be outdated
+  * the adb service might need restart if the device is not detected
+4. need to find a way to change the font of the title bar menu of python tkinter
+5. also need to find libararies to make bluetooth and wifi communication possible on python 
+
+
+
