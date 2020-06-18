@@ -108,7 +108,7 @@ what if its possible to create a bot(a twitter bot preferably) to which you can 
 4. need to find a way to change the font of the title bar menu of python tkinter
 5. also need to find libararies to make bluetooth and wifi communication possible on python 
 
-## Day 7
+## Day 8
 ### June 18th 2020
 1. installing kivy is not so simple read documentation carefully [for rpi](https://kivy.org/doc/stable/installation/installation-rpi.html) and [for windows](https://kivy.org/doc/stable/installation/installation-windows.html#install-win-dist)
 
