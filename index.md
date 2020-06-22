@@ -112,3 +112,9 @@ what if its possible to create a bot(a twitter bot preferably) to which you can 
 ### June 18th 2020
 1. installing kivy is not so simple read documentation carefully [for rpi](https://kivy.org/doc/stable/installation/installation-rpi.html) and [for windows](https://kivy.org/doc/stable/installation/installation-windows.html#install-win-dist)
 
+## Day 9
+### June 22nd 2020
+1. had a curiosity about what does Whatsapp use for messaging and stumbled onto [ejabberd.im](https://ejabberd.im/) its a server that does a lot of things and does one most important thing creates a XMPP server basically. 
+2. Now, once you can make your own server and set it up wherever you want(do not use AWS omg i wasted 2 hours on it as it is so not easy and there is no simple tutorial on it as I was trying to install openfire which is a type of XMPP server and that is not the same as ejabberd UGGHHHH 😭😭😭) So I am still trying to use AWS till they don't charge me anythin
+3. We also need a client to let anyone connec to the group on the XMPP server and chat! that is where this open source chat app [conversatoins](https://f-droid.org/en/packages/eu.siacs.conversations/) comes into picture
+4. Also installing wordpress on windows machine using XAMPP is not really easy if you haven't done it before 
