@@ -118,3 +118,16 @@ what if its possible to create a bot(a twitter bot preferably) to which you can 
 2. Now, once you can make your own server and set it up wherever you want(do not use AWS omg i wasted 2 hours on it as it is so not easy and there is no simple tutorial on it as I was trying to install openfire which is a type of XMPP server and that is not the same as ejabberd UGGHHHH 😭😭😭) So I am still trying to use AWS till they don't charge me anythin
 3. We also need a client to let anyone connec to the group on the XMPP server and chat! that is where this open source chat app [conversatoins](https://f-droid.org/en/packages/eu.siacs.conversations/) comes into picture
 4. Also installing wordpress on windows machine using XAMPP is not really easy if you haven't done it before 
+
+
+## Day 10
+### July 4th 2020 
+1. learnt a cool thing that has to be shared somehow, somewhere LOL 😂🤣 CSS, HTML is fun when used with a right setup so here is how I think one should start with building their own basic web dev journey in CSS. Let me get right to what one can learn in 2020 July to make a page and share it accross the web easily.
+
+  1. install [node.js](https://nodejs.org/en/download/) I am using windows 10 for this so try the same methods for Mac n Linux
+  2. go to some new directory and install tailwind using npm ``` npm install tailwind``` this will make our pages ready for sexy CSS
+  3. now we need something to show our pages online i.e. serve them for other internet browsers for this we will use [surge.sh](https://surge.sh/)just type in ```npm install --global surge``` and we are ready! (type surge to check if this is install is working or you can get some restricted something error, do not worry for windows just enter this command ```Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted``` and we are READY FOR REAL~!!)
+  4. in this step we create an index.html file in your directory or any HTML file you can copy a template from [w3schools](https://www.w3schools.com/) or type html and use HTML5 template from [vscode](https://code.visualstudio.com/download) save your file!
+  5. here is the fun bit. Now that you have the basic HTML ready and want to test out how you want the page to look, find some [free templates](https://mertjf.github.io/tailblocks/) and copy them in your HTML file, dont forget to add ```<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">``` to make it look fantabulous!
+  6. go to terminal and type surge and follow the video on this page [surge.sh](https://surge.sh/)
+  7. that is it! go to the link and check your page! you are free to share that link and showcase people 
