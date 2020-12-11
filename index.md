@@ -130,3 +130,20 @@ what if its possible to create a bot(a twitter bot preferably) to which you can 
     5. here is the fun bit. Now that you have the basic HTML ready and want to test out how you want the page to look, find some [free templates](https://mertjf.github.io/tailblocks/) and copy them in your HTML file, dont forget to add    ```<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">``` to make it look fantabulous!
     6. go to terminal and type surge and follow the video on this page [surge.sh](https://surge.sh/)
     7. that is it! go to the link and check your page! you are free to share that link and showcase people 
+    
+## Day n
+### December 11, 2020
+
+   Another research blog quickly went down it might seem but I just didn't find it worthwhile to push anything here but kept a small, cute ```.md``` file on my pc and used Microsoft VS Code to edit it. I will now try to look into them and try to distill it down to palpable bits for this page. For most of July went into fixing my laptop and getting it in working condition, this meant I had to give my laptop keyboard for now and I bought logitech wirless keyboard mouse, it drastically improved my flow I feel. In August, the first week, I made my very first python executable which did simple things and it was great. Here I jumbled my work todo list and this blog research into one, I should have avoided this and kept both seperate. Helped colleagues come to speed with my project from zero, I find that a great acheivement. Went ahead to work on website and app from here. Started looking for interns and got busy. 
+   
+   Its September by the time I am working on making documentation for working ahead on the products we had, more web work on php, python and qt, mails for getting more people to work with us, was getting better at communicating and delegating tasks.
+   
+   Come October, spent time on html and JS. Tried to learn to use [Dexijs](https://github.com/dfahlander/Dexie.js/) but didn't get it working. Spent some time offline and by end of October I was bored with where I was and stressed and confused.
+   
+   I discontinued work and shifted focus on GATE for November. But it was a bad time to go back to studies now as I had momentum on programming, thus was unable to get back to maths and formualae. I got notes from my friend, used GATE lectures from youtube. It was December and I joined MADEEASY test series too. I also found myself increasingly thinking of the equity stock market, bonds, funds, money and general social media and world at large. All of which resulted in me being behind in studies and coming up with anything significant for this blog and here we are, recap over.
+   
+   
+   
+   
+   
+   
