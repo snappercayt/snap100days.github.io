@@ -143,7 +143,10 @@ what if its possible to create a bot(a twitter bot preferably) to which you can 
    I discontinued work and shifted focus on GATE for November. But it was a bad time to go back to studies now as I had momentum on programming, thus was unable to get back to maths and formualae. I got notes from my friend, used GATE lectures from youtube. It was December and I joined MADEEASY test series too. I also found myself increasingly thinking of the equity stock market, bonds, funds, money and general social media and world at large. All of which resulted in me being behind in studies and coming up with anything significant for this blog and here we are, recap over.
    
    
-   
+# Day n
+### January updates
+    
+   [check here](https://github.com/snappercayt/snapp100days/blob/master/january2021.md)
    
    
    
