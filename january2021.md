@@ -14,7 +14,7 @@ https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-3984
       if __name__ == '__main__':
          app.run(debug=True, port=80, host='0.0.0.0')
 
-### **check rpiWebServer.zip in dowloads**
+### **check rpiWebServer.zip in [dowloads](https://github.com/snappercayt/snapp100days/tree/master/rpiWebServer/rpiWebServer)**
 
 1. succesfully installed flask 
 2. used flask to host a web page and display server time
