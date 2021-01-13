@@ -39,3 +39,18 @@ https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-3984
         HOME_URL="http://www.raspbian.org/"
         SUPPORT_URL="http://www.raspbian.org/RaspbianForums"
         BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
+        
+
+
+# Jan 13th 2021
+
+1. read about new way to internet : [solid](https://solid.mit.edu/)
+2. reading about WSGI started from this [cool thread](https://dev.to/norsemangrey/flask-web-app-on-raspberry-pi-using-docker-24on)
+
+### **So** 
+
+after some tinkering and editing to use the code from [here](https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d) it worked!
+
+here is a screenshot ![workingled](img/ledworking.png)
+
+and here is the [code](https://github.com/snappercayt/snapp100days/tree/master/newapp/newapp)        
